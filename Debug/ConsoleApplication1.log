@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Lib2.cpp
+C:\Users\Назар\source\repos\ConsoleApplication1\ConsoleApplication1\Lib2.cpp(132,9): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "int"
+C:\Users\Назар\source\repos\ConsoleApplication1\ConsoleApplication1\Lib2.cpp(156,116): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\Назар\source\repos\ConsoleApplication1\ConsoleApplication1\Lib2.cpp(156,116): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\Назар\source\repos\ConsoleApplication1\ConsoleApplication1\Lib2.cpp(185,115): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\Назар\source\repos\ConsoleApplication1\ConsoleApplication1\Lib2.cpp(185,115): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\Назар\source\repos\ConsoleApplication1\ConsoleApplication1\Lib2.cpp(265,77): warning C4101: tovkol: неиспользованная локальная переменная
+C:\Users\Назар\source\repos\ConsoleApplication1\ConsoleApplication1\Lib2.cpp(265,50): warning C4101: sobstforma: неиспользованная локальная переменная
+C:\Users\Назар\source\repos\ConsoleApplication1\ConsoleApplication1\Lib2.cpp(265,42): warning C4101: hoskol: неиспользованная локальная переменная
+C:\Users\Назар\source\repos\ConsoleApplication1\ConsoleApplication1\Lib2.cpp(265,33): warning C4101: prodkol: неиспользованная локальная переменная
+  main.cpp
+  Создание кода...
+  ConsoleApplication1.vcxproj -> C:\Users\Назар\source\repos\ConsoleApplication1\Debug\LR-2.exe
